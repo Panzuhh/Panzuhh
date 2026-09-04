@@ -1,63 +1,55 @@
-# 👋 Olá, eu sou o [Paulo Henrique]
+# 👨‍💻 Sobre Mim
 
-🎓 **Estudante de Análise e Desenvolvimento de Sistemas (ADS)**
-💻 Aspirante a Desenvolvedor de Software | Desenvolvimento Web | Prototipagem
+## 🚀 Jornada de Aprendizado
 
-## 🚀 Sobre Mim
+O curso de **Análise e Desenvolvimento de Sistemas (ADS)** é uma jornada intensa, voltada para transformar lógica em soluções funcionais para o mundo real. Para mim, essa trajetória tem sido marcada por descobertas práticas, desafios constantes e pela construção de uma base sólida para o mercado de tecnologia.
 
-Atualmente, curso **Análise e Desenvolvimento de Sistemas (ADS)**, construindo uma base sólida em desenvolvimento de software, tecnologias web, bancos de dados e resolução de problemas.
+Desde o início da graduação, busquei ir além da teoria. Minha experiência prática tem se concentrado em duas frentes fundamentais: **prototipagem** e **desenvolvimento de aplicações web**.
 
-Minha jornada de aprendizado concentra-se em transformar **lógica e ideias em soluções práticas**, combinando teoria com projetos práticos e experimentação contínua.
-
-### 💡 O que estou aprendendo
-
-* 🌐 Desenvolvimento de Aplicações Web
-* 🎨 UI/UX e Prototipagem
-* 🗄️ Bancos de Dados e Modelagem de Dados
-* 🔗 Integração Front-end e Back-end
-* 📡 Requisições HTTP e APIs
-* 🐙 Git e GitHub
-* 🔄 Metodologias Ágeis — Scrum e Kanban
-* 🧠 Lógica de Programação e Resolução de Problemas
-
-## 🛠️ Áreas de Interesse
-
-**Desenvolvimento Web**
-Construção de aplicações enquanto aprendo como front-end, back-end, APIs e bancos de dados funcionam em conjunto.
-
-**Prototipagem**
-Criação de wireframes e interfaces para compreender as necessidades dos usuários e transformar ideias em soluções funcionais.
-
-**Desenvolvimento de Software**
-Aprimoramento das minhas habilidades de programação e aprendizado sobre como abordar problemas técnicos cada vez mais complexos.
-
-## 📚 Minha Jornada de Aprendizado
-
-Estudar ADS me ensinou que o aprendizado em tecnologia nem sempre é linear. Conceitos complexos de programação, erros de compilação, depuração (debugging) e tecnologias desconhecidas me desafiaram a melhorar meu raciocínio lógico e minha persistência.
-
-Os projetos da faculdade também me mostraram a importância do **trabalho em equipe e da colaboração**. Usar Git para controle de versão, trabalhar com metodologias ágeis e comunicar decisões técnicas são tão importantes quanto escrever código.
-
-Cada projeto e desafio é uma oportunidade de evolução.
-
-## 🎯 Objetivos
-
-Busco continuamente me tornar um desenvolvedor melhor através de:
-
-* Criação de projetos do mundo real
-* Fortalecimento dos fundamentos de programação
-* Aprendizado de novas tecnologias
-* Aprimoramento das habilidades de resolução de problemas
-* Desenvolvimento de melhores práticas de arquitetura de software
-* Crescimento como um desenvolvedor colaborativo
-
-> **Aprender, construir, falhar, melhorar e repetir.** 🚀**
+A prototipagem me permitiu compreender a perspectiva do usuário, transformando ideias abstratas em **wireframes e interfaces funcionais** antes mesmo de escrever uma linha de código. Já o desenvolvimento web me ensinou a integrar **front-end e back-end**, compreendendo na prática a estrutura de bancos de dados e a importância de criar interfaces intuitivas.
 
 ---
 
-### 📊 Estatísticas do GitHub
+## 🧠 Desafios e Evolução
 
-*Esta seção pode ser personalizada posteriormente com estatísticas do GitHub, linguagens mais utilizadas e gráficos de contribuição.*
+O aprendizado na área de TI não é linear. Um dos meus maiores desafios tem sido dominar linguagens de programação mais complexas e conceitos que exigem maior nível de abstração.
 
-### 📫 Vamos nos conectar
+Superar a sintaxe inicial é apenas o começo. Conceitos como **gerenciamento de memória, concorrência, arquitetura de microsserviços e padrões de projeto** exigem estudo constante e capacidade de resolução de problemas.
 
-Estou sempre interessado em aprender, desenvolver projetos e me conectar com outras pessoas da comunidade de tecnologia.
+Lidar com erros de compilação e problemas complexos acabou se tornando uma das experiências que mais contribuíram para o desenvolvimento do meu **raciocínio lógico e resiliência técnica**.
+
+---
+
+## 🤝 Trabalho em Equipe
+
+A faculdade e os projetos práticos também mostraram a importância do **trabalho em equipe**.
+
+Na área de tecnologia, grandes sistemas raramente são construídos por uma única pessoa. Aprender a utilizar **Git para versionamento de código**, trabalhar com metodologias ágeis como **Scrum e Kanban** e comunicar decisões técnicas para outros membros da equipe foram aprendizados tão importantes quanto escrever código.
+
+---
+
+## 🎯 Construindo Minha Carreira
+
+Todas essas experiências estão construindo a base da minha carreira na tecnologia.
+
+* 💻 **Projetos práticos** → experiência e segurança no desenvolvimento
+* 🧠 **Linguagens e conceitos complexos** → raciocínio lógico e resiliência
+* 🤝 **Trabalho em equipe** → colaboração e comunicação
+* 🔧 **Git e versionamento** → organização e boas práticas
+* 📋 **Scrum e Kanban** → organização e desenvolvimento colaborativo
+
+O curso de **ADS** não representa apenas a busca por um diploma, mas também a construção de uma **mentalidade analítica**, preparada para aprender, evoluir e acompanhar constantemente as mudanças da tecnologia.
+
+---
+
+## 🌐 Forma de Contato?
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/paulo-henrique-131021430/?skipRedirect=true " target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://discord.gg/StfdF288" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Perfil-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>

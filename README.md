@@ -1,63 +1,63 @@
-# 👋 Hi, I'm [Seu Nome]
+# 👋 Olá, eu sou o [Paulo Henrique]
 
-🎓 **Systems Analysis and Development (ADS) Student**
-💻 Aspiring Software Developer | Web Development | Prototyping
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas (ADS)**
+💻 Aspirante a Desenvolvedor de Software | Desenvolvimento Web | Prototipagem
 
-## 🚀 About Me
+## 🚀 Sobre Mim
 
-I'm currently studying **Systems Analysis and Development (ADS)**, building a strong foundation in software development, web technologies, databases, and problem-solving.
+Atualmente, curso **Análise e Desenvolvimento de Sistemas (ADS)**, construindo uma base sólida em desenvolvimento de software, tecnologias web, bancos de dados e resolução de problemas.
 
-My learning journey is focused on turning **logic and ideas into practical solutions**, combining theory with hands-on projects and continuous experimentation.
+Minha jornada de aprendizado concentra-se em transformar **lógica e ideias em soluções práticas**, combinando teoria com projetos práticos e experimentação contínua.
 
-### 💡 What I'm Learning
+### 💡 O que estou aprendendo
 
-* 🌐 Web Application Development
-* 🎨 UI/UX & Prototyping
-* 🗄️ Databases and Data Modeling
-* 🔗 Front-end & Back-end Integration
-* 📡 HTTP Requests and APIs
-* 🐙 Git & GitHub
-* 🔄 Agile methodologies — Scrum & Kanban
-* 🧠 Programming Logic & Problem Solving
+* 🌐 Desenvolvimento de Aplicações Web
+* 🎨 UI/UX e Prototipagem
+* 🗄️ Bancos de Dados e Modelagem de Dados
+* 🔗 Integração Front-end e Back-end
+* 📡 Requisições HTTP e APIs
+* 🐙 Git e GitHub
+* 🔄 Metodologias Ágeis — Scrum e Kanban
+* 🧠 Lógica de Programação e Resolução de Problemas
 
-## 🛠️ Areas of Interest
+## 🛠️ Áreas de Interesse
 
-**Web Development**
-Building applications while learning how front-end, back-end, APIs, and databases work together.
+**Desenvolvimento Web**
+Construção de aplicações enquanto aprendo como front-end, back-end, APIs e bancos de dados funcionam em conjunto.
 
-**Prototyping**
-Creating wireframes and interfaces to understand user needs and transform ideas into functional solutions.
+**Prototipagem**
+Criação de wireframes e interfaces para compreender as necessidades dos usuários e transformar ideias em soluções funcionais.
 
-**Software Development**
-Improving my programming skills and learning how to approach increasingly complex technical problems.
+**Desenvolvimento de Software**
+Aprimoramento das minhas habilidades de programação e aprendizado sobre como abordar problemas técnicos cada vez mais complexos.
 
-## 📚 My Learning Journey
+## 📚 Minha Jornada de Aprendizado
 
-Studying ADS has taught me that learning technology is not always linear. Complex programming concepts, compilation errors, debugging, and unfamiliar technologies have challenged me to improve my logical reasoning and persistence.
+Estudar ADS me ensinou que o aprendizado em tecnologia nem sempre é linear. Conceitos complexos de programação, erros de compilação, depuração (debugging) e tecnologias desconhecidas me desafiaram a melhorar meu raciocínio lógico e minha persistência.
 
-College projects have also shown me the importance of **teamwork and collaboration**. Using Git for version control, working with agile methodologies, and communicating technical decisions are just as important as writing code.
+Os projetos da faculdade também me mostraram a importância do **trabalho em equipe e da colaboração**. Usar Git para controle de versão, trabalhar com metodologias ágeis e comunicar decisões técnicas são tão importantes quanto escrever código.
 
-Every project and challenge is an opportunity to improve.
+Cada projeto e desafio é uma oportunidade de evolução.
 
-## 🎯 Goals
+## 🎯 Objetivos
 
-I'm continuously working toward becoming a better developer by:
+Busco continuamente me tornar um desenvolvedor melhor através de:
 
-* Building real-world projects
-* Strengthening my programming fundamentals
-* Learning new technologies
-* Improving my problem-solving skills
-* Developing better software architecture practices
-* Growing as a collaborative developer
+* Criação de projetos do mundo real
+* Fortalecimento dos fundamentos de programação
+* Aprendizado de novas tecnologias
+* Aprimoramento das habilidades de resolução de problemas
+* Desenvolvimento de melhores práticas de arquitetura de software
+* Crescimento como um desenvolvedor colaborativo
 
-> **Learning, building, failing, improving, and repeating. 🚀**
+> **Aprender, construir, falhar, melhorar e repetir.** 🚀**
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Estatísticas do GitHub
 
-*This section can be customized later with GitHub statistics, most-used languages, and contribution graphs.*
+*Esta seção pode ser personalizada posteriormente com estatísticas do GitHub, linguagens mais utilizadas e gráficos de contribuição.*
 
-### 📫 Let's Connect
+### 📫 Vamos nos conectar
 
-I'm always interested in learning, building projects, and connecting with other people in the technology community.
+Estou sempre interessado em aprender, desenvolver projetos e me conectar com outras pessoas da comunidade de tecnologia.
